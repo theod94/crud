@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/unnamed.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.bande_footer {
+    background-color: forestgreen;
+    height: 50px;
+}
+
+.encadrage_formulaire {
+    margin-top: 15%;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+    border: solid 2px white;
+    width: 35%;
+}
+
+.bouton_enregistrer {
+    margin-left: 110px;
+    margin-bottom: 15px;
+}
+
+.bouton_se_connecter {
+    margin-left: 60px;
+}
